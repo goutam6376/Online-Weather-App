@@ -1,0 +1,20 @@
+
+.div1{
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: black;
+}
+
+.div1, #hh{
+    padding-top: 40px;
+    font-weight: bold;
+}
+
+.foot{
+    padding-top: 15px;
+    height: 55px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
